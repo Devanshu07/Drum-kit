@@ -1,0 +1,19 @@
+{
+  "name": "drum-kit-completed",
+  "version": "1.0.0",
+  "description": "Drum kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devanshu07/Drum-kit.git"
+  },
+  "author": "Devanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devanshu07/Drum-kit/issues"
+  },
+  "homepage": "https://github.com/Devanshu07/Drum-kit#readme"
+}
